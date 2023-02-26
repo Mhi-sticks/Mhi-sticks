@@ -1,10 +1,10 @@
- 💫 About Me:
-🔭 I’m currently working on an E-commerce website for gadgets
-👯 I’m looking to collaborate on frontend projects
-🤝 I’m looking for help with coding challenges
-🌱 I’m currently learning C language
-💬 Ask me about Frontend
-⚡ I really love music
+ # 💫 About Me:
+### 🔭 I’m currently working on an E-commerce website for gadgets
+### 👯 I’m looking to collaborate on frontend projects
+### 🤝 I’m looking for help with coding challenges
+### 🌱 I’m currently learning C language
+### 💬 Ask me about Frontend
+### ⚡ I really love music
 
 
 ## 🌐 Socials:
